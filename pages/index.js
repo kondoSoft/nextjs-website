@@ -20,6 +20,7 @@ export default function Home() {
             <a className="button button-KS" onClick={()=>setSection('hire')} href="#">Contrata hoy</a>
             <a className="button button-KS" onClick={()=>setSection('login')} href="#">Ya soy cliente...</a>
             <a className="button button-KS" href="https://drive.google.com/file/d/1opYqNnTlHE41vsTTPAId2RoLmUPrEWlb/view?usp=sharing" target='_blank'>Portafolio...</a>
+            <a className="button button-KS" href="https://blog.kondosoft.com" target='_blank'>El Blog</a>
           </div>
         </div>
         <div className={`jc ${section !== 'hire' && 'hide'}`}>
