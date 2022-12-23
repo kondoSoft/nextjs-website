@@ -37,14 +37,14 @@ export default function Home() {
             <a
               className="button button-KS"
               href="https://drive.google.com/file/d/1opYqNnTlHE41vsTTPAId2RoLmUPrEWlb/view?usp=sharing"
-              target="_blank"
+              target="_new"
             >
               Portafolio...
             </a>
             <a
               className="button button-KS"
               href="https://blog.kondosoft.com"
-              target="_blank"
+              target="_new"
             >
               El Blog
             </a>
@@ -111,7 +111,7 @@ export default function Home() {
             <a
               className="button button-KS"
               href="https://drive.google.com/file/d/1opYqNnTlHE41vsTTPAId2RoLmUPrEWlb/view?usp=sharing"
-              target="_blank"
+              target="_new"
             >
               Portafolio...
             </a>
