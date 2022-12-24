@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="main">
       <Head>
-        <title>Kondo Soft</title>
+        <title>Empresa de programacion móvil en México - Kondo Soft</title>
       </Head>
       <div className="content">
         <div className={`jc ${section !== "home" && "hide"}`}>
@@ -16,8 +16,12 @@ export default function Home() {
           <h4>Desarrollo a medida...</h4>
           <p>
             Con más de 4 años de experiencia y clientes internacionales, nos
-            hemos especializado en desarrollo móvil y web.{" "}
-            <a href="#">leer más...</a>
+            hemos especializado en desarrollo móvil y web.
+          </p>
+          <p>
+            Contamos con desarrolladores de nivel mundial, con desarrollos en
+            Estados Unidos, Canada y Australia hemos desarrollado tecnicas y
+            procedimientos extremadamente eficientes.<a href="#">leer más...</a>
           </p>
           <div className="button-wrapper">
             <a
