@@ -45,11 +45,7 @@ export default function Home() {
             >
               Portafolio...
             </a>
-            <a
-              className="button button-KS"
-              href="https://blog.kondosoft.com"
-              target="_new"
-            >
+            <a className="button button-KS" href="https://cyberpolin.com">
               El Blog
             </a>
           </div>
